@@ -15,10 +15,14 @@ Support for Various File Formats: The application supports the transfer of diffe
 
 ## Installation
 1. Clone this GitHub repository to your local machine.
-2. Run the `main.py`file.
+   ```bash
+      git clone https://github.com/tusharharyana/Python_File_sharing_app.git
+      cd Python_File_sharing_app
+   ```
+3. Run the `main.py`file.
 
    ```bash
-     python -u "e:\PythonAPP\main.py"
+     python main.py
    ```
 ## Usage
 Once installed, you can launch the application and start sending and receiving files.
